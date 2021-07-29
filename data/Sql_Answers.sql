@@ -30,7 +30,6 @@ order by c.store\
 3. Calculate the average found rate(*) of the orders grouped by \
 the product format and day of the week.\
 \
---Com o count podemos ver que os n\'fameros multiplicaram em rela\'e7\'e3o \'e0 quantidade de pedidos\
 with d as (SELECT count(*) as quantity_of_orders,\
 	round(cast(sum(quantity)as numeric)\
 	  /\
