@@ -39,7 +39,7 @@ The business operates in more than 20 cities, reaching tens of thousands of orde
 - lat y lng: Latitude and Longitude of the branch location.
 
 
-The goal is to answer the following questions regarding our operation. You must use SQL queries and plot the output of each SQL query using Tableau. 
+We must use SQL queries and plot the output of each SQL query using Tableau. 
 
 **Questions**:
 
